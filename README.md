@@ -17,10 +17,10 @@ ChainSense-AI is a Streamlit-based application that enables supply chain teams t
 Python, Pandas, Prophet, Scikit-learn, LangChain, Groq API, Streamlit, Plotly, SQLAlchemy, SQLite/MySQL
 
 ## 📅 Roadmap
-- [ ] Data ingestion pipeline
-- [ ] Forecasting module
-- [ ] Anomaly detection module
-- [ ] NLP query interface
+- [✅] Data ingestion pipeline
+- [✅] Forecasting module
+- [✅] Anomaly detection module
+- [✅] NLP query interface
 - [ ] Dashboard integration
 
 ---
