@@ -13,30 +13,6 @@ The system provides insights through **Demand Forecasting**, **Sales Anomaly Det
 - 🖥 **Interactive Dashboard** – Navigate between modules seamlessly.  
 
 ---
-
-## 📂 Project Structure  
-ChainSense-AI/
-|──Dashboard/
-||──home.py #Main dashboard navi.
-||──demand_forecasting.py # Demand forecasting module
-||──sales_anomalies.py # Sales anomaly detection module
-||──nlp_query_dashboard.py # NLP query assistant module
-|──
-|──
-||──
-||──
-||──
-||──
-|──
-|──
-|──
-|──
-|──
-|──
-|──
-|──
-
----
 ## ⚙️ Installation  
 
 1. Clone the repository:  
