@@ -15,27 +15,26 @@ The system provides insights through **Demand Forecasting**, **Sales Anomaly Det
 ---
 
 ## 📂 Project Structure  
-
 ChainSense-AI/
-│── dashboard/
-│ ├── home.py # Main dashboard navigation
-│ ├── demand_forecasting.py # Demand forecasting module
-│ ├── sales_anomalies.py # Sales anomaly detection module
-│ ├── nlp_query_dashboard.py # NLP query assistant module
-│
-│── data/
-│ ├── DataCoSupplyChainDataset.csv # Main dataset
-│ ├── DescriptionDataCoSupplyChain.csv # Dataset description
-│ ├── supply_chain.db # Database file
-│ ├── tokenized_access_logs.csv # Log file
-│
-│── requirements.txt # Python dependencies
-│── ml_module.py # ML models utilities
-│── data_pipeline.py # Data preprocessing pipeline
-│── check_products.py # Product validation script
-│── nlp_query.py # NLP query backend logic
-│── .env # (User must create & add their API key here)
-│── README.md # Project documentation
+|──Dashboard/
+||──home.py #Main dashboard navi.
+||──demand_forecasting.py # Demand forecasting module
+||──sales_anomalies.py # Sales anomaly detection module
+||──nlp_query_dashboard.py # NLP query assistant module
+|──
+|──
+||──
+||──
+||──
+||──
+|──
+|──
+|──
+|──
+|──
+|──
+|──
+|──
 
 ---
 ## ⚙️ Installation  
