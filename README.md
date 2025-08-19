@@ -45,11 +45,13 @@ ChainSense-AI/
    git clone https://github.com/gauransh-juneja/ChainSense-AI.git
    cd ChainSense-AI
 2. Create Virtual Environment:
+   ```bash
    python -m venv .venv
    source .venv/bin/activate   # (Linux/Mac)
    .venv\Scripts\activate      # (Windows PowerShell)
 
 4. Install Dependencies:
+   ```bash
    pip install -r requirements.txt
 ---
 
